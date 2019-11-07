@@ -21,11 +21,12 @@
 title: hami city
 email: hamii@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
-  hami is blogging about random things
+  hami likes to write about stuff that lies at the intersection of
+  languages, international affairs, and the Internet.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  hamiimelon
+github_username:  hamicity
 
 # Build settings
 theme: minima

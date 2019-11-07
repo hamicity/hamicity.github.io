@@ -6,17 +6,17 @@ permalink: /about/
 
 ## Who are we?
 
-We're Hami, two individuals who both like to think and write about stuff that usually lies at the intersection of languages, international affairs, and the Internet.
+We're Hami, two individuals who like to think and write about stuff that lies at the intersection of languages, international affairs, and the Internet.
 
-When we refer to ourselves, we speak collectively; that is, we could be referring to either one of us, or both to varying degrees.
+When we refer to ourselves, we speak collectively; that is, we are either referring to one of us, or both to varying degrees.
 
 When referring to Hami, use they/them pronouns. In Arabic, it would be correct to use the dual, non-gendered هما.
 
 ## Why trust us?
 
-We have academic or occupational experience in community organizing, digital and network security, natural language processing, middle eastern history, network censorship, US-China tech policy, and philosophy of mind. We're somewhat-to-very fluent in Arabic (MSA and Levantine), English, French, Mandarin Chinese, and Turkish.
+We have academic or professional experience in community organizing, digital and network security, natural language processing, middle eastern history, network censorship, US-China tech policy, and philosophy of mind. We're somewhat-to-very fluent in Arabic (MSA and Levantine), English, French, Mandarin Chinese, and Turkish.
 
-That's a lot of things! We have a lot of semi-interesting conversations at the intersections of the things we do professionally and have studied in the past, and have often wanted to put some of these thoughts on the Internet.
+That's a lot of things! We often have interesting conversations at the intersection of our various experiences and we put some of these thoughts on the Internet.
 
 ## What is hami?
 
